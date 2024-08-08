@@ -18,7 +18,7 @@ print(sqrt(16))  # Output: 4.0
 
 ###############################
 # Example:
-
+'''
 # mymodule.py
 def greet(name):
     return f"Hello, {name}!"
@@ -32,4 +32,6 @@ import mymodule
 
 print(mymodule.greet("Alice"))  # Output: Hello, Alice!
 print(mymodule.add(5, 3))       # Output: 8
+'''
+
 
